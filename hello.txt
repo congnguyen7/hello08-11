@@ -1,2 +1,3 @@
-Hello, World
-lab9s 9
+name = ARGV.first || "World"
+
+echo "Hello, #{name}!"
