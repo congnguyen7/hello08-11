@@ -5,3 +5,12 @@ echo "Hello, #{name}!"
 themdulieuvaonhanhdevelop
 
 teamA da hoan thanh xong nhiem vu som va merge len nhanh develop
+
+Thuc hien thay doi, them code boi teamB
+
+echo "Hello, #{name}!"
+
+echo "Hello, #{name}!"
+
+echo "Hello, #{name}!"
+
