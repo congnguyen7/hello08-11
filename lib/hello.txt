@@ -3,3 +3,5 @@ name = ARGV.first || "World"
 echo "Hello, #{name}!"
 
 themdulieuvaonhanhdevelop
+
+teamA da hoan thanh xong nhiem vu som va merge len nhanh develop
