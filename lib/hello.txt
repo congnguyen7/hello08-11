@@ -14,3 +14,7 @@ echo "Hello, #{name}!"
 
 echo "Hello, #{name}!"
 
+make 2nd commit
+    echo "Hello!"
+    echo "Hello!" 
+    du lieu moi
