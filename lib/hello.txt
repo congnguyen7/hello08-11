@@ -18,3 +18,6 @@ make 2nd commit
     echo "Hello!"
     echo "Hello!" 
     du lieu moi
+
+    helo... them du lieu vao file hello.txt
+    
